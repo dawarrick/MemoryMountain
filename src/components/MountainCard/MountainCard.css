@@ -1,0 +1,18 @@
+.card {
+    text-align: center;
+    justify-content: center;
+    width:190px;
+    height:190px;
+    padding:2px;
+}
+
+.card>.img-container {
+    overflow: hidden;
+    text-align: center;
+    justify-content: center; 
+}
+
+.card>.img-container>img {
+    width: 99%;   
+    height:195px;
+}

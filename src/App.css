@@ -1,0 +1,13 @@
+.stats {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.climbed {
+  margin-right: 5%;
+}
+
+.best {
+  text-align: right;
+}
