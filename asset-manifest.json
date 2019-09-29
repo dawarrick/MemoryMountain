@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MemoryMountain/static/css/main.231aac29.chunk.css",
+    "main.js": "/MemoryMountain/static/js/main.edc1da9d.chunk.js",
+    "main.js.map": "/MemoryMountain/static/js/main.edc1da9d.chunk.js.map",
+    "runtime-main.js": "/MemoryMountain/static/js/runtime-main.d49f607b.js",
+    "runtime-main.js.map": "/MemoryMountain/static/js/runtime-main.d49f607b.js.map",
+    "static/js/2.52d4fd33.chunk.js": "/MemoryMountain/static/js/2.52d4fd33.chunk.js",
+    "static/js/2.52d4fd33.chunk.js.map": "/MemoryMountain/static/js/2.52d4fd33.chunk.js.map",
+    "index.html": "/MemoryMountain/index.html",
+    "precache-manifest.72ebe3a1e80d37c162c7e37d507cd597.js": "/MemoryMountain/precache-manifest.72ebe3a1e80d37c162c7e37d507cd597.js",
+    "service-worker.js": "/MemoryMountain/service-worker.js",
+    "static/css/main.231aac29.chunk.css.map": "/MemoryMountain/static/css/main.231aac29.chunk.css.map"
+  }
+}
