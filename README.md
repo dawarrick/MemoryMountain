@@ -11,13 +11,15 @@ Github repository - https://github.com/dawarrick/MemoryMountain.git
 
 **How it works**
 
-*
-
+* You will see a display of 12 beautiful mountain images.
+* Your goal is to climb each mountain once, and only once.
+* Climbing a mountain is as easy as clicking on the picture.
+* Your score counter will increment each time you click on a mountain for the first time.
+* If you click on each mountain once and only once, you win!
+* If you click on a mountain a second time, you'll be sent back down the mountain and need to start again.
 
 ## Technology Stack
-* Node.js - JavaScript runtime engine.
-* Express - Web application framework.
-* Express-Handlebars - templating tool to handle the display of the table data
+* React - Framework based on the create-react-app NPM utility. https://github.com/facebook/create-react-app
 * Bootstrap, JQuery, CSS - HTML framework
 * React - Framework.
 

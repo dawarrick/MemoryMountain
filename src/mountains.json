@@ -1,61 +1,73 @@
 [{
         "id": 1,
         "image": "assets/images/mountain1.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 2,
         "image": "assets/images/mountain2.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 3,
         "image": "assets/images/mountain3.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 4,
         "image": "assets/images/mountain4.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 5,
         "image": "assets/images/mountain5.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 6,
         "image": "assets/images/mountain6.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 7,
         "image": "assets/images/mountain7.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 8,
         "image": "assets/images/mountain8.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 9,
         "image": "assets/images/mountain9.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 10,
         "image": "assets/images/mountain10.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 11,
         "image": "assets/images/mountain11.jpeg",
+        "name": "missing mountain",
         "clicked": false
     },
     {
         "id": 12,
         "image": "assets/images/mountain12.jpeg",
+        "name": "missing mountain",
         "clicked": false
     }
 ]
