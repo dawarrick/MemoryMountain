@@ -113,7 +113,7 @@ class App extends Component {
                         ))}
                     </div>
                 </div>
-            </Wrapper>
+            </Wrapper >
         );
     }
 }
