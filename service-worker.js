@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MemoryMountain/precache-manifest.72ebe3a1e80d37c162c7e37d507cd597.js"
+  "/MemoryMountain/precache-manifest.f14abd14ad7fbaa47c0f705125c94f20.js"
 );
 
 self.addEventListener('message', (event) => {
