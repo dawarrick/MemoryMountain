@@ -21,6 +21,6 @@ Github repository - https://github.com/dawarrick/MemoryMountain.git
 ## Technology Stack
 * React - Framework based on the create-react-app NPM utility. https://github.com/facebook/create-react-app
 * Bootstrap, JQuery, CSS - HTML framework
-* React - Framework.
+* gh-pages package - to allow for running React on Github
 
 # Thanks for visiting, and please check out my app!
